@@ -1,0 +1,14 @@
+D:\Challenge.Net GDSC\Drinceanu-Adel\bin\Debug\netcoreapp3.1\Drinceanu-Adel.exe
+D:\Challenge.Net GDSC\Drinceanu-Adel\bin\Debug\netcoreapp3.1\Drinceanu-Adel.deps.json
+D:\Challenge.Net GDSC\Drinceanu-Adel\bin\Debug\netcoreapp3.1\Drinceanu-Adel.runtimeconfig.json
+D:\Challenge.Net GDSC\Drinceanu-Adel\bin\Debug\netcoreapp3.1\Drinceanu-Adel.runtimeconfig.dev.json
+D:\Challenge.Net GDSC\Drinceanu-Adel\bin\Debug\netcoreapp3.1\Drinceanu-Adel.dll
+D:\Challenge.Net GDSC\Drinceanu-Adel\bin\Debug\netcoreapp3.1\Drinceanu-Adel.pdb
+D:\Challenge.Net GDSC\Drinceanu-Adel\obj\Debug\netcoreapp3.1\Drinceanu-Adel.csproj.AssemblyReference.cache
+D:\Challenge.Net GDSC\Drinceanu-Adel\obj\Debug\netcoreapp3.1\Drinceanu-Adel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge.Net GDSC\Drinceanu-Adel\obj\Debug\netcoreapp3.1\Drinceanu-Adel.AssemblyInfoInputs.cache
+D:\Challenge.Net GDSC\Drinceanu-Adel\obj\Debug\netcoreapp3.1\Drinceanu-Adel.AssemblyInfo.cs
+D:\Challenge.Net GDSC\Drinceanu-Adel\obj\Debug\netcoreapp3.1\Drinceanu-Adel.csproj.CoreCompileInputs.cache
+D:\Challenge.Net GDSC\Drinceanu-Adel\obj\Debug\netcoreapp3.1\Drinceanu-Adel.dll
+D:\Challenge.Net GDSC\Drinceanu-Adel\obj\Debug\netcoreapp3.1\Drinceanu-Adel.pdb
+D:\Challenge.Net GDSC\Drinceanu-Adel\obj\Debug\netcoreapp3.1\Drinceanu-Adel.genruntimeconfig.cache
